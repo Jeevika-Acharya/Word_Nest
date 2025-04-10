@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.backGround {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #001e1e;
+  align-items: center;
+}
+.mainContent {
+  display: flex;
+}
+.nextButton{
+  background-color:  #001e1e;
+  border: none;
+  font-size: 35px;
+  font-family:rajdhani;
+  font-weight: 800;
+  font-style: italic;
+  color: whitesmoke;
+  text-shadow: 5px 4px 51px white;
+}
+
+.material-symbols-outlined {
+  font-size: 30px;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 100,
+  'GRAD' 0,
+  'opsz' 48
+  
+}
+
